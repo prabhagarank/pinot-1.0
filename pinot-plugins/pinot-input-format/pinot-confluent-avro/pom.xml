@@ -49,11 +49,6 @@
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>software.amazon.msk</groupId>
-      <artifactId>aws-msk-iam-auth</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <dependency>
       <groupId>software.amazon.glue</groupId>
       <artifactId>schema-registry-serde</artifactId>
       <version>1.1.12</version>
